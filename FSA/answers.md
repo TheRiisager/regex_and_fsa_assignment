@@ -70,3 +70,10 @@ e:<br>
 | s3  |s3 |s0 |
 
 # 3
+
+## table 8
+a: s0, s1, s2<br>
+b: 0, 1<br>
+c: s0<br>
+d: s2<br>
+e: 
